@@ -7,10 +7,10 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = ['2347045035241', 'Excel', true]
+global.owner = ['263713571083', 'Excel', true]
  //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "263713571083" //put your bot number here
 
 global.mods = ['2347045035241'] 
 global.prems = ['2347045035241']
